@@ -10,3 +10,9 @@ public class Friends {
 		mPeople2 = p2;
 	}
 }
+
+
+
+
+
+
